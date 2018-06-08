@@ -1,0 +1,44 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3012290, 2015-04-20T12:45:49-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FF DIN Web Pro Bold by FontFont
+ * URL: http://www.myfonts.com/fonts/fontfont/ff-din/pro-bold/
+ * 
+ * Webfont: FF DIN Web Pro Light by FontFont
+ * URL: http://www.myfonts.com/fonts/fontfont/ff-din/pro-light/
+ * 
+ * Webfont: FF DIN Web Pro Medium by FontFont
+ * URL: http://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/
+ * 
+ * Webfont: FF DIN Web Pro by FontFont
+ * URL: http://www.myfonts.com/fonts/fontfont/ff-din/pro-regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3012290
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: 2009 Albert-Jan Pool published by FSI FontShop International GmbH
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+@font-face {font-family: 'FFDINWebPro';src: url('webfonts/2DF6C2_3_0.eot');src: url('webfonts/2DF6C2_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2DF6C2_3_0.woff2') format('woff2'),url('webfonts/2DF6C2_3_0.woff') format('woff'),url('webfonts/2DF6C2_3_0.ttf') format('truetype');} 
+
+/*FFDINWebProBold:*/
+@font-face {font-family: 'FFDINWebPro';src: url('webfonts/2DF6C2_0_0.eot');src: url('webfonts/2DF6C2_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2DF6C2_0_0.woff2') format('woff2'),url('webfonts/2DF6C2_0_0.woff') format('woff'),url('webfonts/2DF6C2_0_0.ttf') format('truetype');
+    font-weight: 700;
+}
+/*FFDINWebProLight:*/
+@font-face {font-family: 'FFDINWebPro';src: url('webfonts/2DF6C2_1_0.eot');src: url('webfonts/2DF6C2_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2DF6C2_1_0.woff2') format('woff2'),url('webfonts/2DF6C2_1_0.woff') format('woff'),url('webfonts/2DF6C2_1_0.ttf') format('truetype');
+    font-weight: 300;
+}
+/*FFDINWebProMedium:*/
+@font-face {font-family: 'FFDINWebPro';src: url('webfonts/2DF6C2_2_0.eot');src: url('webfonts/2DF6C2_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2DF6C2_2_0.woff2') format('woff2'),url('webfonts/2DF6C2_2_0.woff') format('woff'),url('webfonts/2DF6C2_2_0.ttf') format('truetype');
+    font-weight: 500;
+}
